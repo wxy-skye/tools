@@ -9,9 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-				</array>
 				<key>ServerURL</key>
 				<string>https://dns.sjhoy.top:35948/dns-query</string>
 			</dict>
